@@ -11,3 +11,14 @@ This process or stage in the SDLC brings clarity and understanding. The scope of
 2. Basis of the Design and Development: There is a solid blueprint for the design of the product, and this brings clarity.
 3. Cost and Time Estimation: Allocation of time and resources is easy if a good Requirement Analysis is done.
 4. Clarity and understanding: This brings clarity and understanding to all stakeholders, which goes a long way towards helping the product meet the acceptance criteria.
+
+## Key Activities in Requirement Analysis
+* Requirement Gathering: This has to do with getting all the information needed about the product in question. Information is gathered through interviews, surveys, observation, and document analysis.
+
+* Requirement Elicitation: This is where brainstorming is done with the information gathered to generate ideas. Focus groups may come into play in this stage, prototyping is also done here, involving all or key stakeholders.
+
+* Requirement Documentation: This stage entails creating a detailed document which contains both functional and non-functional requirements. User stories are also captured here describing how users use various functions or features. Use cases are also captured here to show interactions between users and the system.
+
+* Requirement Analysis and Modeling: At this stage, there is prioritization of requirements based on their importance and impact on the overall product. Modeling is done here, flow diagrams and entity-relationship diagrams are drawn to have a visual representation of the requirements.
+
+* Requirement Validation: Reviews and approvals are done by stakeholders. Acceptance criteria are defined to ensure the quality of the product. Traceability metrics are put in place to make sure that all requirements are considered during development and testing.
