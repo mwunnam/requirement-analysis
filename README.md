@@ -1,6 +1,6 @@
 # Requirement Analysis in Software Development
 
-This is a Repository for leaning purposes. This is about a project on the Requirement Analysis which is focusing on a comprehensive software developement by documenting, analyzing and structuring requirments. This is for booking management system
+This is a Repository for leaning purposes. This is about a project on the Requirement Analysis which is focusing on a comprehensive software development by documenting, analyzing and structuring requirements. This is for booking management system
 
 ## What is Requirement Analysis?
 This is a paramount stage in the development of a software application or website. It entails gathering, analyzing and defining what is needed to develop the product at hand. All stakeholders come on board to make sure there is a clear understanding as to how the software product should perform and the features it must have.
@@ -22,3 +22,17 @@ This process or stage in the SDLC brings clarity and understanding. The scope of
 * Requirement Analysis and Modeling: At this stage, there is prioritization of requirements based on their importance and impact on the overall product. Modeling is done here, flow diagrams and entity-relationship diagrams are drawn to have a visual representation of the requirements.
 
 * Requirement Validation: Reviews and approvals are done by stakeholders. Acceptance criteria are defined to ensure the quality of the product. Traceability metrics are put in place to make sure that all requirements are considered during development and testing.
+
+## Types of Requirements
+### Functional Requirements
+This type of Requirement describes what the system should do.
+Examples:
+* Security          : There should be user authentication.
+* Booking Services  : Users should be able to book. 
+* Search Propers    : Users should be able to search for properties with their prefrence.
+### Non-Functional Requirements 
+This type of Requirement describes how the system should perform. 
+Examples:
+* Performance       : The system should be fast in bringing up search responses.
+* Scalability       : The system should be built in a way that it can be scaled up or down  depending on the current situation.
+* Reliability       : The system should be up and running always, and if there is a glitch, the recovery time should be fast.   
