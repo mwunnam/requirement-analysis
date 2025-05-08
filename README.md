@@ -36,3 +36,10 @@ Examples:
 * Performance       : The system should be fast in bringing up search responses.
 * Scalability       : The system should be built in a way that it can be scaled up or down  depending on the current situation.
 * Reliability       : The system should be up and running always, and if there is a glitch, the recovery time should be fast.   
+
+## Use Case Diagrams
+These diagrams contain a visual representation of how users interact with the system.
+
+## Acceptance Criteria
+Acceptance criteria are conditions that must be met for a feature to be accepted by the stakeholders. When such conditions are clearly stipulated, objectives are set straight and there is no confusion. 
+Example: When a user use the Checkout button, there should be a confirmatory message showing them the summary of their booking, and if they comfirm it, a payment page should show up.
